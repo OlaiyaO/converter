@@ -1,0 +1,11 @@
+name: converter 
+description: A tool for image converstion
+version: 0.0.1
+
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+dependencies:
+  image: ^4.0.15
+  ##prompter_sg: 0.0.2
